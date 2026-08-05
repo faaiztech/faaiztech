@@ -32,8 +32,11 @@ Email Me 👉 ✉️ **faaizqamar17@gmail.com** For Collaboration/Project or Any
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=faaiztech&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub_Trophies-Joining_Rank-orange?style=for-the-badge&logo=github" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
